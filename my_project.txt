@@ -20,3 +20,6 @@ The version for Master v5...
 
 Mary for Version 6 
 >>>>>>> Stashed changes
+
+
+version 7 test
